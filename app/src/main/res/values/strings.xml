@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FirebaseMessaging</string>
+    <string name="channel_name">name</string>
+    <string name="channel_description">helo</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="send_again">Gửi lại</string>
+    <string name="welcome_to_hentaiz">Welcome to Hentaiz</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="item">Item</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login_facebook">Login With Facebook</string>
+    <string name="login_google">Login With Google</string>
+
+    <string name="facebook_app_id">547565176572548</string>
+    <string name="fb_login_protocol_scheme">fb547565176572548</string>
+
+
+</resources>
