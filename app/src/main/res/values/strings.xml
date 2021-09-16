@@ -20,6 +20,9 @@
 
     <string name="facebook_app_id">547565176572548</string>
     <string name="fb_login_protocol_scheme">fb547565176572548</string>
+    <string name="photo_uri">Photo uri</string>
+    <string name="update_info">Cập nhật thông tin</string>
+    <string name="link">liên kết</string>
 
 
 </resources>

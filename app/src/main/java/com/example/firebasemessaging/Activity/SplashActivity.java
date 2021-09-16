@@ -25,10 +25,9 @@ public class SplashActivity extends AppCompatActivity {
         Intent intent;
         if(user != null && user.isEmailVerified()){
             intent = new Intent(this, MainActivity.class);
-            FirebaseAuth.getInstance().signOut();
-
         }else{
             intent = new Intent(this, LoginActivity.class);
+            FirebaseAuth.getInstance().signOut();
         }
         startActivity(intent);
     }

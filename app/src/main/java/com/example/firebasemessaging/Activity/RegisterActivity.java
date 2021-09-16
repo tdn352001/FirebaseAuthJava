@@ -22,7 +22,6 @@ public class RegisterActivity extends AppCompatActivity {
     TextInputEditText edtUserName, edtEmail, edtPassword;
     MaterialButton btnConfirm;
     FirebaseAuth mAuth;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -71,6 +70,7 @@ public class RegisterActivity extends AppCompatActivity {
                 });
 
     }
+
 
 
 }
